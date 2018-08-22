@@ -9,7 +9,7 @@ Simple Java `Hello World`
 ------------------------
 * Go to `D drive` and create a folder `java-code`.
 * With this we will have a folder `D://java-code/`
-* Open `notepad++` and the below `java source code` .
+* Open `notepad++` and write the below `java source code` .
 
 ```java
 public class Test
