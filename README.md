@@ -2,7 +2,7 @@
 
 ## Rule
 * Avoid `Spelling Errors` while writing the code.
-* Always concentrate on `Class`, `Method`, `Variables`,`Object`.
+* Always concentrate on 5 things: `Class`, `Method`,`Method Parameters`,`Method Return Type`, `Variables`,`Object`.
 * Avoid using `notepad`. Use `notepad++`.
 
 Simple Java `Hello World`
