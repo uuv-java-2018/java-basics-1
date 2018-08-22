@@ -27,7 +27,7 @@ Compile
 -------
 Java source code need to be compiled using the tool `javac` and the result of compilation is `bytecode` containing in a `.class` file. We always compile java source code file(not java class). Use the below steps to compile the `java source code` written in `Simple.java`.
 
-* Open explorer. 
+* Open explorer `WINDOW+E`. 
 * Go to `D://java-code/`. This is the place where we saved `Simple.java` file containing `java source code`.
 * In the `address bar` type `cmd` .
 * To `compile` the `java source code` from the cmd we type the command `javac Simple.java` .
