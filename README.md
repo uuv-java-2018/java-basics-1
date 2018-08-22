@@ -12,7 +12,7 @@ Simple Java `Hello World`
 * Open `notepad++` and write the below `java source code` .
 
 ```java
-public class Test
+public class Simple
 {
   public static void main(String[] args)
   {
@@ -25,7 +25,7 @@ Save above file as `Simple.java` under `D://java-code`.
 
 Compile
 -------
-Java source code need to be compiled using the tool `javac` and the result of compilation is `bytecode` containing in a `.class` file. We always compile java source code file(not java class). Use the below steps to compile the `java source code` written in `Sample.java`.
+Java source code need to be compiled using the tool `javac` and the result of compilation is `bytecode` containing in a `.class` file. We always compile java source code file(not java class). Use the below steps to compile the `java source code` written in `Simple.java`.
 
 * Open explorer. 
 * Go to `D://java-code/`. This is the place where we saved `Simple.java` file containing `java source code`.
