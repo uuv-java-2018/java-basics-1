@@ -32,6 +32,7 @@ Java source code need to be compiled and the result of compilation is bytecode. 
 * In the `address bar` type `cmd` .
 * To `compile` the `java source code` from the cmd we type the command `javac Simple.java` .
 * Once the above command executed successfully, we can see a class file with name `Test.class` has been generated.
+* Everytime you change the content in `java source code` file, you have to `compile` to generate the `bytecode` containing your changes.
 
 ## Agenda
 * Hello World Application
