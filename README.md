@@ -31,7 +31,7 @@ Java source code need to be compiled using the tool `javac` and the result of co
 * Go to `D://java-code/`. This is the place where we saved `Simple.java` file containing `java source code`.
 * In the `address bar` type `cmd` .
 * To `compile` the `java source code` from the cmd we type the command `javac Simple.java` .
-* Once the above command executed successfully, we can see a class file with name `Test.class` has been generated.
+* Once the above command executed successfully, we can see a class file with name `Simple.class` has been generated.
 * Everytime you change the content in `java source code` file, you have to `compile` to generate the `bytecode` containing your changes.
 
 ## Agenda
