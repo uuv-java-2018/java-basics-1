@@ -5,6 +5,7 @@
 * Always concentrate on 5 things: `Class`, `Method`,`Method Parameters`,`Method Return Type`, `Variables`,`Object`.
 * Avoid using `notepad`. Use `notepad++`.
 * Every Java KeyWord is in lowercase only.
+* Love to read the exceptions and errors in the source code.
 
 Simple Java `Hello World`
 ------------------------
