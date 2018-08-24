@@ -34,6 +34,26 @@ Java source code need to be compiled using the tool `javac` and the result of co
 * Once the above command executed successfully, we can see a class file with name `Simple.class` has been generated.
 * Everytime you change the content in `java source code` file, you have to `compile` to generate the `bytecode` containing your changes.
 
-## Agenda
-* Hello World Application
+Execute
+-------
+To run the `.class` file generated in the above step, we have to use the below command.
+* java Simple
+* You will see the output as `Hello World`
 
+Compilation and Execute Using Package
+---------------------------------
+Suppose a class is declared with a package as shown below.
+
+```java 
+package com.java;
+public class Simple
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Hello World");
+  }
+}
+```
+
+* compile : `javac -d . Simple.java`
+* execute: `java com.java.Simple`
