@@ -23,6 +23,7 @@ Java Contents:
 9. non static methods. accessing non static methods using object.
 10. static variables. accessing static variables using class name.
 11. non static variables. accessing non static variables using object.
-12. primitive datatypes. size, min value, max value, default value
-13. Reference Types(Employee,Customer,Arrays, Java Provided Classes, Wrapper Types)
-14. wrapper types. converting primitive to wrapper and vice versa
+12. single copy for static variables and separate copy for non static variables for each object.
+13. primitive datatypes. size, min value, max value, default value
+14. Reference Types(Employee,Customer,Arrays, Java Provided Classes, Wrapper Types)
+15. wrapper types. converting primitive to wrapper and vice versa
