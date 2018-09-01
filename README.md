@@ -16,8 +16,8 @@ Java Contents:
 2. Java Hello World
 3. Running Java Hello World In Eclipse
 4. constructors
-5. Java static Blocks
-6. Java non static Blocks
+5. static Blocks
+6. non static Blocks
 7. static block, non static blocks, constructors along with object creation. 
 8. static methods. accessing static method using class name.
 9. non static methods. accessing non static methods using object.
