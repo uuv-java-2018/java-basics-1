@@ -15,6 +15,20 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.
 Eclipse Download:
 http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/photon/R/eclipse-jee-photon-R-win32-x86_64.zip
 
+
+API Doc:
+--------
+* Java 10: https://docs.oracle.com/javase/10/docs/api/overview-summary.html
+
+Specification Doc:
+------------------
+Java SE 8: https://docs.oracle.com/javase/specs/jls/se8/html/
+Java SE 10: https://docs.oracle.com/javase/specs/jls/se10/html/
+
+Tutorials:
+----------
+https://docs.oracle.com/javase/tutorial/java/TOC.html
+
 Java Contents:
 --------------------------------------------------------
 
