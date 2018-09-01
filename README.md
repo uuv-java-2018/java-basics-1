@@ -1,61 +1,28 @@
 # java-basics-1
 
-## Rule
-* Avoid `Spelling Errors` while writing the code.
-* Always concentrate on 5 things: `Class`, `Method`,`Method Parameters`,`Method Return Type`, `Variables`,`Object`.
-* Avoid using `notepad`. Use `notepad++` or `IDE` (`eclipse` or `intellij`).
-* Every Java KeyWord is in lowercase only.
-* Love to read the exceptions and errors in the source code.
+Downloads
+------------------------------------------------------
+JDK 8 Download:
+http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-windows-x64.exe
 
-Simple Java `Hello World`
-------------------------
-* Go to `D drive` and create a folder `java-code`.
-* With this we will have a folder `D://java-code/`
-* Open `notepad++` and write the below `java source code` .
+Eclipse Download:
+http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/photon/R/eclipse-jee-photon-R-win32-x86_64.zip
 
-```java
-public class Simple
-{
-  public static void main(String[] args)
-  {
-    System.out.println("Hello World");
-  }
-}
-```
+Java Contents:
+--------------------------------------------------------
 
-Save above file as `Simple.java` under `D://java-code`. 
-
-Compile
--------
-Java source code need to be compiled using the tool `javac` and the result of compilation is `bytecode` containing in a `.class` file. We always compile java source code file(not java class). Use the below steps to compile the `java source code` written in `Simple.java`.
-
-* Open explorer `WINDOW+E`. 
-* Go to `D://java-code/`. This is the place where we saved `Simple.java` file containing `java source code`.
-* In the `address bar` type `cmd` .
-* To `compile` the `java source code` from the cmd we type the command `javac Simple.java` .
-* Once the above command executed successfully, we can see a class file with name `Simple.class` has been generated.
-* Everytime you change the content in `java source code` file, you have to `compile` to generate the `bytecode` containing your changes.
-
-Execute
--------
-To run the `.class` file generated in the above step, we have to use the below command.
-* java Simple
-* You will see the output as `Hello World`
-
-Compilation and Execute Using Package
----------------------------------
-Suppose a class is declared with a package as shown below.
-
-```java 
-package com.java;
-public class Simple
-{
-  public static void main(String[] args)
-  {
-    System.out.println("Hello World");
-  }
-}
-```
-
-* compile : `javac -d . Simple.java`
-* execute: `java com.java.Simple`
+0.Java Naming Conventions.
+1. Java Compile and Execute.
+2. Java Hello World
+3. Running Java Hello World In Eclipse
+4. constructors
+5. Java static Blocks
+6. Java non static Blocks
+7. static block, non static blocks, constructors along with object creation. 
+8. static methods. accessing static method using class name.
+9. non static methods. accessing non static methods using object.
+10. static variables. accessing static variables using class name.
+11. non static variables. accessing non static variables using object.
+12. primitive datatypes. size, min value, max value, default value
+13. Reference Types(Employee,Customer,Arrays, Java Provided Classes, Wrapper Types)
+14. wrapper types. converting primitive to wrapper and vice versa
