@@ -32,7 +32,9 @@ https://docs.oracle.com/javase/tutorial/java/TOC.html
 Java Contents:
 --------------------------------------------------------
 
-0.Java Naming Conventions.
+Part 1:
+-------
+0. Java Naming Conventions.
 1. Java Compile and Execute.
 2. Java Hello World
 3. Running Java Hello World In Eclipse
@@ -46,5 +48,44 @@ Java Contents:
 11. non static variables. accessing non static variables using object.
 12. single copy for static variables and separate copy for non static variables for each object.
 13. primitive datatypes. size, min value, max value, default value
-14. Reference Types(Employee,Customer,Arrays, Java Provided Classes, Wrapper Types)
-15. wrapper types. converting primitive to wrapper and vice versa
+14. type casting with primitive types.
+15. Reference Types(Employee,Customer,Arrays, Java Provided Classes, Wrapper Types)
+16. wrapper types. converting primitive to wrapper and vice versa
+
+Eclipse IDE Shortcuts
+---------------------
+
+Part 2: operators
+-----------------
+1. Operators Precedence
+2. Operators Associativity
+3. Examples
+
+Part 3: Return Statement & Control Statements
+--------------------------
+1. Return Statement for void methods
+2. Return Statemnet for methods havinf return types
+3. If
+4. If else
+5. If else if
+6. If else if else
+7. switch(int)
+8. switch(String)
+
+Part 4: Loops
+-------------
+1. for loop counter to access arary
+2. while loop counter to access array
+3. advance for loop element access
+4. continue
+5. break
+Part 5: Arrays
+--------------
+1. int[] 
+2. Integer[]
+3. String[]
+4. counting the number of ocuurance of a name in an array
+5. Employee[]
+6. 2d Arrays: int[][]
+7. 3d Arrays: int[][][]
+8. Examples on Arrays.
